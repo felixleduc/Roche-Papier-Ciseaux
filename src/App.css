@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.text-block {
+  display: block;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+.play-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.affichage-combat {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
